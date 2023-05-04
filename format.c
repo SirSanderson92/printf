@@ -3,7 +3,7 @@
 int main()
 {
 	int num = 42;
-	florat fnum = 42.00;
+	float fnum = 42.00;
 	char chr = 'A';
 	char str [] = "Hello world!";
 
